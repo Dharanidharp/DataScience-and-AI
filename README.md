@@ -1,1 +1,1 @@
-# Telecom-Churn
+# Machine Learning Projects
